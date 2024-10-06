@@ -1,0 +1,10 @@
+{
+  "link": {
+    "wasm": {
+      "exports": ["moonbit_random"]
+    },
+    "wasm-gc": {
+      "exports": ["moonbit_random"]
+    }
+  }
+}
